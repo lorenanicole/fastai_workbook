@@ -14,3 +14,7 @@ You'll need to be using Python 3.6+ and:
 3. cd to the directed lesson director and `jupyter notebook` to spin up the notebook
 
 Now explore!
+
+## Use Jupyter NBViewer
+
+If you don't want to install things and if GitHub is having issues rendering the notebook, copy the url and go to the [NBViewer](https://nbviewer.jupyter.org/) to view any desired notebooks.
